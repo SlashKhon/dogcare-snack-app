@@ -19,7 +19,8 @@ Open in Snack: [View on Expo Snack](https://snack.expo.dev/@slashkhon28/assignme
 
 ![SigmaLogo](https://github.com/user-attachments/assets/f88f325f-fc84-4948-b56e-1bc4a0f937cb)
 
-![splash-icon](https://github.com/user-attachments/assets/9096a19c-751e-4390-822c-de70c9bcd6ff)
+![image](https://github.com/user-attachments/assets/8f145bbd-bc03-49c3-bb9a-1467e74b0738)
+
 
 
 ##  Technologies Used
