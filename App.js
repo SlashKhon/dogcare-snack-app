@@ -5,7 +5,7 @@ import { Picker } from '@react-native-picker/picker';   //to create dropdowns
 
 export default function App() {    //defualt 
   const [selectedDog, setSelectedDog] = useState("");  // lines declare variables to store user selections 
-  const [selectedHours, setSelectedHours] = useState("0"); //initial value is 1 
+  const [selectedHours, setSelectedHours] = useState("0"); //initial value is 0
   const [selectedService, setSelectedService] = useState("");
   const [selectedServiceQty, setSelectedServiceQty] = useState("0");
   const [calculatedValue, setCalculatedValue] = useState("Press the above button to calculate");  
