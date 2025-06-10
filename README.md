@@ -13,7 +13,7 @@ This is a mobile app prototype built using **Expo Snack** for connecting dog own
 
 ##  Live Preview
 
-Open in Snack: [View on Expo Snack]([https://snack.expo.dev/@slashkhon28/assignment-draft](https://snack.expo.dev/@slashkhon28/assignment-draft?platform=android))  
+Open in Snack: [View on Expo Snack]([https://snack.expo.dev/@slashkhon28/assignment-draft?platform=android])  
 
 ##  Screenshots
 
